@@ -1,0 +1,17 @@
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/bin/Debug/net6.0/GetTvShowTotalLength
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/bin/Debug/net6.0/GetTvShowTotalLength.deps.json
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/bin/Debug/net6.0/GetTvShowTotalLength.runtimeconfig.json
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/bin/Debug/net6.0/GetTvShowTotalLength.dll
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/bin/Debug/net6.0/GetTvShowTotalLength.pdb
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/bin/Debug/net6.0/Newtonsoft.Json.dll
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/GetTvShowTotalLength.csproj.AssemblyReference.cache
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/GetTvShowTotalLength.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/GetTvShowTotalLength.AssemblyInfoInputs.cache
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/GetTvShowTotalLength.AssemblyInfo.cs
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/GetTvShowTotalLength.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/GetTvShowTotalLength.csproj.CopyComplete
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/GetTvShowTotalLength.dll
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/refint/GetTvShowTotalLength.dll
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/GetTvShowTotalLength.pdb
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/GetTvShowTotalLength.genruntimeconfig.cache
+/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/Debug/net6.0/ref/GetTvShowTotalLength.dll

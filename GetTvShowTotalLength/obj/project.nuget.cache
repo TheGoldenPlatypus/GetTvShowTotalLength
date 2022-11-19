@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1p5CaQq/WFDtg0Q1f9YViLjVcBlxkvAhHruSRCnf0NRne0I9e+bjozMNBjYBl9LyXGKj+LJ33Vgna3McH9rZow==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/GetTvShowTotalLength.csproj",
+  "expectedPackageFiles": [
+    "/home/omer/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
