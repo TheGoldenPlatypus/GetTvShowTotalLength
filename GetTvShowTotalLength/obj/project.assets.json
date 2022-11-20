@@ -1,18 +1,25 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    ".NETFramework,Version=v6.0": {
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net45/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v6.0/win7-x86": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
         }
       }
     }
@@ -47,69 +54,52 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    ".NETFramework,Version=v6.0": [
       "Newtonsoft.Json >= 13.0.1"
     ]
   },
   "packageFolders": {
-    "/home/omer/.nuget/packages/": {}
+    "C:\\Users\\Omer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/GetTvShowTotalLength.csproj",
+      "projectUniqueName": "C:\\Users\\Omer\\Desktop\\GetTvShowTotalLength\\GetTvShowTotalLength\\GetTvShowTotalLength.csproj",
       "projectName": "GetTvShowTotalLength",
-      "projectPath": "/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/GetTvShowTotalLength.csproj",
-      "packagesPath": "/home/omer/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/Omer/Desktop/GetTvShowTotalLength/GetTvShowTotalLength/obj/",
+      "projectPath": "C:\\Users\\Omer\\Desktop\\GetTvShowTotalLength\\GetTvShowTotalLength\\GetTvShowTotalLength.csproj",
+      "packagesPath": "C:\\Users\\Omer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Omer\\Desktop\\GetTvShowTotalLength\\GetTvShowTotalLength\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/omer/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Omer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net60"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net60": {
           "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net60": {
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.1, )"
           }
-        },
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48",
-          "net481"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }
