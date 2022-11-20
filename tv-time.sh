@@ -61,7 +61,7 @@ function makeTempFolder() {
 
 #######################################
 # Find the Maximal&Minimal Length of a TV-show
-# using a parallel calls to a c# app 
+# using a parallel calls to itself
 # this recursive fucntion implements "divide and conquer" algorithm
 # to achieve it in O(log(n)) time complexity.
 # GLOBALS:
